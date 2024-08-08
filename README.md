@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrjaid23
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently Python and data visualization tools
+- 🌱 I’m currently learning Python, and R
 - 💞️ I’m looking to collaborate on open-source data projects and data science research
 - 📫 How to reach me: adamspay23@gmail.com or connect with me on LinkedIn
 - 😄 Pronouns: He/Him
